@@ -12,6 +12,6 @@ I love building tools to secure cloud environments and automate threat detection
 `AWS` `Python` `Terraform` `ELK Stack` `Llama 2` `React`
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sam&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarang2401&show_icons=true&theme=radical)
 
 ---
