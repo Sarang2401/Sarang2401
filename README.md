@@ -39,9 +39,9 @@ I'm a passionate **Cloud Security Engineer** and **Developer** who loves designi
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📬 Email: `youremail@example.com`
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/sarang-shigwan-9a9668266/)
+- 📬 Email: `sarang2401@gmail.com`
+- 🌐 [Blogger](https://defendthecloud.blogspot.com/)
 
 ---
 
