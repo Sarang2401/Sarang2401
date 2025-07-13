@@ -49,7 +49,7 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 
 ---
 
-## 📝 Latest Blog Posts
+<h3 align="left">📝 Latest Blog Posts</h3>
 
 <table>
   <tr>
