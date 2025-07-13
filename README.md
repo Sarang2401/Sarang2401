@@ -1,61 +1,84 @@
-<!-- Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70BFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sarang+Shigwan;Cloud+Security+Engineer+%7C+DevSecOps+Builder;Secure+Code+%7C+Scale+Responsibly+%7C+Automate+Everything" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2e/7b/e4/2e7be4bd18b264b1c4f338fe4dbb693c.gif" alt="Cybersecurity animation" width="400"/>
-</p>
+
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 About Me
+
+I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who loves to:
+
+- 🔐 Design secure and scalable cloud systems  
+- 🛡️ Automate threat detection and incident response  
+- ⚙️ Build tools that bridge development with cybersecurity  
+
+</td>
+<td align="right">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmEyYjN0em5mMG9hM2U4aDJzcnZyYXhnZmZocTNhNTM0MHE3M2JzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="300" alt="Cybersecurity Code GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 👋 Hi, I'm Sarang Shigwan
+### 🚀 Projects
 
-🎯 **Cloud Security Engineer | DevSecOps Enthusiast | Builder of Secure Cloud Tools**
-
-I'm a passionate engineer focused on securing cloud-native systems, automating threat detection, and bridging the gap between development and security through **DevSecOps**, **IaC**, and **AI-driven defense systems**.
-
----
-
-## 🚀 Featured Projects
-
-| 🛠 Project | 🌐 Description |
+| 🔧 Project | 💬 Description |
 |-----------|----------------|
-| 🔍 **Artemis** | Enterprise-grade platform for end-to-end **cyber risk detection** and **prevention**. Tailored for secure cloud infrastructures. |
-| 🧾 **ResponseForge** | A **NIST-compliant** incident response template generator that crafts policies based on company-specific inputs and compliance needs. |
-| ⚙️ **DevDock** | Seamless **CI/CD automation** suite powered by Docker, GitHub Actions, Terraform, and AWS. Designed for fast, secure, and repeatable deployments. |
+| **🔍 Artemis** | Enterprise-grade end-to-end solution for detection and prevention of cyber risks |
+| **🧾 ResponseForge** | A NIST-based IR template generator customized for company environments |
+| **☁️ DevDock** | CI/CD automation using Docker, GitHub Actions, Terraform, and AWS |
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🧰 Tech Stack
+
+#### ☁️ Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat&logo=githubactions&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-%234285F4?style=flat&logo=prometheus&logoColor=white)
+
+#### 🔐 Security & Monitoring  
+`AIDE` `SIEM` `ELK Stack` `CloudTrail` `WAF` `CloudWatch`
+
+#### 💻 Programming  
+![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000?style=flat&logo=flask&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,githubactions,python,java,react,flask,bash,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarang2401&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarang2401&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📬 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarang2401&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarang2401&theme=radical" alt="GitHub Streak" width="47%" />
-</p>
-
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/Sarang2401/Sarang2401/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+- 📧 Email: `sarang2401@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarang-shigwan-9a9668266/)
+- 📝 [Blog](https://defendthecloud.blogspot.com/)
 
 ---
 
-## 📬 Let's Connect
+<p align="center">
+  <b><i>"Secure code. Scale responsibly. Automate everything."</i></b> 🔐  
+</p>
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sarang-shigwan-9a9668266/)
-- 📨 Email: `sarang2401@gmail.com`
-- 📝 [Blog - Defend the Cloud](https://defendthecloud.blogspot.com/)
-
----
-
-> _"Secure code. Scale responsibly. Automate everything."_  
-> Made with 💻, ☁️, and ☕ by **Sarang Shigwan**
+<p align="center">
+  Made with 💻, ☁️ and ☕ by <b>Sarang Shigwan</b>
+</p>
