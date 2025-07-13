@@ -49,6 +49,30 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 
 ---
 
+## 📝 Latest Blog Posts
+
+<table>
+  <tr>
+    <td width="30">📌</td>
+    <td><a href="https://defendthecloud.blogspot.com/2024/07/bypassing-ssti-picoctf-walkthrough.html"><b>Bypassing SSTI: PicoCTF Walkthrough</b></a><br/>
+    <i>A deep dive into blacklisting bypasses in SSTI vulnerabilities.</i>
+    </td>
+  </tr>
+  <tr>
+    <td>🧩</td>
+    <td><a href="https://defendthecloud.blogspot.com/2024/07/on-includes-picoctf-file-inclusion.html"><b>On Includes: PicoCTF File Inclusion Challenge</b></a><br/>
+    <i>Exploring file inclusion vulnerabilities and how to exploit them.</i>
+    </td>
+  </tr>
+  <tr>
+    <td>♟️</td>
+    <td><a href="https://defendthecloud.blogspot.com/2024/07/websockfish-ctf-chess-eval-injection.html"><b>WebSockFish CTF: Exploiting Eval in a Chess Bot</b></a><br/>
+    <i>Intercepting WebSocket traffic and injecting malicious moves to win a chess game.</i>
+    </td>
+  </tr>
+</table>
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
