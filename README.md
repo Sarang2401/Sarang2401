@@ -67,8 +67,19 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 <a href="https://hashnode.com/https://@sarang24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://@sarang24" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sarang24"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarang24" /></a><a href="https://ko-fi.com/sarang24"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sarang24" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sarang24" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/sarang24" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</p>
+
+<br/>
 
 <p align="center">
   <b><i>"Secure code. Scale responsibly. Automate everything."</i></b> 🔐  
