@@ -1,11 +1,7 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70BFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sarang+Shigwan;Cloud+Security+Engineer+%7C+DevSecOps+Builder;Secure+Code+%7C+Scale+Responsibly+%7C+Automate+Everything" alt="Typing SVG" />
 </p>
-
-
-<table>
-<tr>
-<td width="60%">
 
 ### 👨‍💻 About Me
 
@@ -15,14 +11,9 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 - 🛡️ Automate threat detection and incident response  
 - ⚙️ Build tools that bridge development with cybersecurity  
 
-</td>
-<td align="right">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmEyYjN0em5mMG9hM2U4aDJzcnZyYXhnZmZocTNhNTM0MHE3M2JzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="300" alt="Cybersecurity Code GIF" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmEyYjN0em5mMG9hM2U4aDJzcnZyYXhnZmZocTNhNTM0MHE3M2JzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" alt="Cybersecurity Code GIF" />
+</p>
 
 ---
 
@@ -69,11 +60,15 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 
 ### 📬 Contact Me
 
-- 📧 Email: `sarang2401@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/sarang-shigwan-9a9668266/)
-- 📝 [Blog](https://defendthecloud.blogspot.com/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/youknowwho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youknowwho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarang-shigwan-9a9668266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarang-shigwan-9a9668266/" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://@sarang24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://@sarang24" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sarang24"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarang24" /></a><a href="https://ko-fi.com/sarang24"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sarang24" /></a></p><br><br>
 
 <p align="center">
   <b><i>"Secure code. Scale responsibly. Automate everything."</i></b> 🔐  
