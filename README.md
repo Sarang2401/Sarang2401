@@ -54,19 +54,19 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 <table>
   <tr>
     <td width="30">📌</td>
-    <td><a href="https://defendthecloud.blogspot.com/2024/07/bypassing-ssti-picoctf-walkthrough.html"><b>Bypassing SSTI: PicoCTF Walkthrough</b></a><br/>
+    <td><a href="https://ctfchronicles.blogspot.com/2025/07/bypassing-ssti-picoctf-walkthrough.html"><b>Bypassing SSTI: PicoCTF Walkthrough</b></a><br/>
     <i>A deep dive into blacklisting bypasses in SSTI vulnerabilities.</i>
     </td>
   </tr>
   <tr>
     <td>🧩</td>
-    <td><a href="https://defendthecloud.blogspot.com/2024/07/on-includes-picoctf-file-inclusion.html"><b>On Includes: PicoCTF File Inclusion Challenge</b></a><br/>
+    <td><a href="https://ctfchronicles.blogspot.com/2025/07/on-includes-picoctf-file-inclusion-walkthrough.html"><b>On Includes: PicoCTF File Inclusion Challenge</b></a><br/>
     <i>Exploring file inclusion vulnerabilities and how to exploit them.</i>
     </td>
   </tr>
   <tr>
     <td>♟️</td>
-    <td><a href="https://defendthecloud.blogspot.com/2024/07/websockfish-ctf-chess-eval-injection.html"><b>WebSockFish CTF: Exploiting Eval in a Chess Bot</b></a><br/>
+    <td><a href="https://ctfchronicles.blogspot.com/2025/07/websockfish-chess-bot-ctf-writeup.html"><b>WebSockFish CTF: Exploiting Eval in a Chess Bot</b></a><br/>
     <i>Intercepting WebSocket traffic and injecting malicious moves to win a chess game.</i>
     </td>
   </tr>
@@ -84,11 +84,10 @@ I'm a passionate **Cloud Security Engineer** and **DevSecOps Developer** who lov
 
 ### 📬 Contact Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/youknowwho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youknowwho" height="30" width="40" /></a>
+<a href="https://twitter.com/@SarangShigwan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youknowwho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarang-shigwan-9a9668266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarang-shigwan-9a9668266/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://@sarang24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://@sarang24" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sarang24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://@sarang24" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Support:</h3>
